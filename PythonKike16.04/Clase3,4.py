@@ -1,0 +1,5 @@
+a=int(input("¿Qué año estás cursando?\n"))
+print("")
+ap=input("¿Tienes el arancel pagado? (si/no)\n")
+print("")
+s=input("¿Estás suspendido? (si/no)")
